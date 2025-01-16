@@ -1,0 +1,57 @@
+[
+  {
+    "class": "nav-item nav-link active",
+    "href": "index.php",
+    "content": "Home"
+  },
+  {
+    "class": "nav-item nav-link",
+    "href": "about.php",
+    "content": "About"
+  },
+  {
+    "class": "nav-item nav-link",
+    "href": "service.php",
+    "content": "Services"
+  },
+  {
+    "class": "nav-item nav-link",
+    "href": "package.php",
+    "content": "Tour Packages"
+  },
+  {
+    "class-div": "nav-item dropdown",
+    "class": "nav-link dropdown-toggle",
+    "href": "#",
+    "data-toggle": "dropdown",
+    "content": "Pages",
+    "class-div2": "dropdown-menu border-0 rounded-0 m-0",
+    "items": [
+      {
+        "class": "dropdown-item",
+        "href": "blog.php",
+        "content": "Blog Grid"
+      },
+      {
+        "class": "dropdown-item",
+        "href": "blog_detail.php",
+        "content": "Blog Detail"
+      },
+      {
+        "class": "dropdown-item",
+        "href": "destination.php",
+        "content": "Destination"
+      },
+      {
+        "class": "dropdown-item",
+        "href": "testimonial.php",
+        "content": "Testimonial"
+      }
+    ]
+  },
+  {
+    "class": "nav-item nav-link",
+    "href": "contact.php",
+    "content": "Contact"
+  }
+]
